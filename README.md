@@ -1,6 +1,6 @@
-# ChemOptima v0.1
+# ChemOptimize v0.1
 
-Agente Inteligente baseado em objetivos para otimização de envasamento industrial (*Bin Packing Problem*). Desenvolvido como Etapa 2 da avaliação de Inteligência Artificial.
+Agente Inteligente baseado em objetivos para otimização de envasamento industrial (*Bin Packing Problem*).
 
 **Integrantes:** Samuel Morsch, João Vitor da Silva Bast e George Lucas Silva Brigido.
 

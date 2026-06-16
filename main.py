@@ -82,7 +82,7 @@ def otimizar_envase():
 
 # --- 4. EXECUÇÃO E DEMONSTRAÇÃO ---
 if __name__ == "__main__":
-    print("Iniciando Agente ChemOptima...\n")
+    print("Iniciando Agente ChemOptimize...\n")
     melhor_estado, melhor_custo, historico = otimizar_envase()
     
     print("=== RELATÓRIO DE ENVASE OTIMIZADO ===")
